@@ -1,0 +1,31 @@
+{
+    "students": [
+      {
+        "id": "4d22",
+        "firstName": "Ignacio",
+        "lastName": "Boldo",
+        "email": "Igniboldo@gmail.com",
+        "password": "123456",
+        "role": "ADMIN",
+        "token": "ndsHSBnsdjkasJs354MSjsnmvcs332SJnxjS",
+        "createdAt": "2024-10-24T00:14:33.140Z"
+      },
+      {
+        "id": "Fr24",
+        "firstName": "Lautaro",
+        "lastName": "Boldo",
+        "email": "lauti@gmail.com",
+        "createdAt": "2024-10-24T01:28:09.184Z",
+        "role": "STUDENT",
+        "password": "LHxfNUFt",
+        "token": "FKejj6VrYmRw2EtEuecO"
+      }
+    ],
+    "courses": [
+      {
+        "id": "avcE2",
+        "name": "Desarrollo web",
+        "price": 9999
+      }
+    ]
+  }

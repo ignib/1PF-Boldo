@@ -14,6 +14,7 @@ import { studentFullNamePipe } from './pipes/student-full-name.pipe';
 import { HighligthDirective } from './directives/highligth.directive';
 import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
 import { RepeatDirective } from './directives/repeat.directive';
+import { MatNavList } from '@angular/material/list';
 
 
 

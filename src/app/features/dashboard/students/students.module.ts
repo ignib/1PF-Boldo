@@ -24,6 +24,7 @@ import { studentFullNamePipe } from '../../../shared/pipes/student-full-name.pip
     SharedModule,
     MatButtonModule,
     MatCardModule,
+    SharedModule,
   ],
   exports: [
     studentsComponent,
